@@ -3,11 +3,13 @@
 
 ---
 
-- 🎓 Bachelor's in Information Systems in Oil and Gas (GPA: 3.57)
-- 🔭 Currently working on web apps using FastAPI, PHP, and MySQL
-- 👯 Participated in student hackathons, placed 3rd in ZMS challenge
-- 🌱 Learning advanced backend and cloud technologies
-- 📫 Reach me at: altusshh.sss@gmail.com
+-  Graduated with a Bachelor's degree in Information Systems (GPA 3.57).
+- Built working web apps using FastAPI, PHP, MySQL, and JavaScript during studies and internships.
+- Took 3rd place in a corporate coding competition at ZMS, winning a 300,000₸ team prize.
+- Currently learning React and improving my frontend and backend development skills.
+- Confident with HTML/CSS, familiar with backend tools and database systems.
+- I recently moved to Almaty to grow my career in IT as a junior full-stack developer.
+- Open to junior roles and internship opportunities in tech teams.
 
 ---
 
@@ -23,9 +25,19 @@
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 🛠 ZMS Production Tracker | Internal system for tracking factory tasks | FastAPI, MySQL, HTML/CSS | [GitHub](https://github.com/Altyn-moon/ZMS-project) |
-| 📦 Inventory System | Materials tracking for construction | PHP, MySQL, HTML/CSS | [GitHub](https://github.com/Altyn-moon/Sandyq) |
+| 🛠 ZMS Project | Internal system for tracking factory tasks | Python(FastAPI), MySQL, JS, HTML/CSS | [GitHub](https://github.com/Altyn-moon/ZMS-project) |
+| 📦 Sandyq | Materials tracking for construction | HTML/CSS | [GitHub](https://github.com/Altyn-moon/Sandyq) |
 | 🎯 Virtual Mouse | AI-based mouse controller with gestures | Python, OpenCV | [GitHub](https://github.com/Altyn-moon/Virtual-mouse) |
+| 📦 Altyn MAT | Materials tracking for construction | HTML/CSS, MySQL, JS, PHP, MAMP Pro | [GitHub](https://github.com/Altyn-moon/AltynMAT) |
+
+### 🔥 Featured Projects
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| 🛠 ZMS Project | Web app to automate workflow for factory staff at ZMS. Built as a team, took 3rd place and won 300,000₸ in a corporate competition. | FastAPI, MySQL, JavaScript, HTML/CSS | [GitHub](https://github.com/Altyn-moon/ZMS-project) |
+| 📦 Altyn MAT | Prototype of a construction material tracking system. Includes login, database connection, and admin panel. | PHP, MySQL, HTML/CSS, JavaScript, MAMP Pro | [GitHub](https://github.com/Altyn-moon/AltynMAT) |
+| 🎯 Virtual Mouse | AI-based gesture-controlled virtual mouse using computer vision and hand tracking. | Python, OpenCV | [GitHub](https://github.com/Altyn-moon/Virtual-mouse) |
+| 🌐 Sandyq | Simple layout demo of a website for tracking materials (no backend). | HTML, CSS | [GitHub](https://github.com/Altyn-moon/Sandyq) |
 
 ---
 
