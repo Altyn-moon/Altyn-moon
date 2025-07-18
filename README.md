@@ -3,13 +3,13 @@
 
 ---
 
-- Graduated with a Bachelor's degree in Information Systems (GPA 3.57).
-- Built working web apps using FastAPI, PHP, MySQL, and JavaScript during studies and internships.
-- Took 3rd place in a corporate coding competition at ZMS, winning a 300,000₸ team prize.
-- Currently learning React and improving my frontend and backend development skills.
-- Confident with HTML/CSS, familiar with backend tools and database systems.
-- I recently moved to Almaty to grow my career in IT as a junior full-stack developer.
-- Open to junior roles and internship opportunities in tech teams.
+- 🎓 Graduated with a Bachelor's degree in Information Systems (GPA 3.57)  
+- 🛠 Built real web apps using FastAPI, PHP, MySQL, and JavaScript during university projects  
+- 🥉 Took 3rd place in a corporate coding competition at ZMS, winning a 300,000₸ team prize  
+- ⚛️ Currently learning React and improving both frontend and backend development skills  
+- 💻 Confident with HTML/CSS, familiar with backend tools and databases  
+- 📍 Recently moved to Almaty to grow my career in IT as a full-stack developer  
+- 🚀 Actively looking for opportunities to join a development team and grow as a developer  
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 My Projects
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
