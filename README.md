@@ -3,7 +3,7 @@
 
 ---
 
--  Graduated with a Bachelor's degree in Information Systems (GPA 3.57).
+- Graduated with a Bachelor's degree in Information Systems (GPA 3.57).
 - Built working web apps using FastAPI, PHP, MySQL, and JavaScript during studies and internships.
 - Took 3rd place in a corporate coding competition at ZMS, winning a 300,000₸ team prize.
 - Currently learning React and improving my frontend and backend development skills.
@@ -20,15 +20,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
-
-### 🔥 Featured Projects
-
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🛠 ZMS Project | Internal system for tracking factory tasks | Python(FastAPI), MySQL, JS, HTML/CSS | [GitHub](https://github.com/Altyn-moon/ZMS-project) |
-| 📦 Sandyq | Materials tracking for construction | HTML/CSS | [GitHub](https://github.com/Altyn-moon/Sandyq) |
-| 🎯 Virtual Mouse | AI-based mouse controller with gestures | Python, OpenCV | [GitHub](https://github.com/Altyn-moon/Virtual-mouse) |
-| 📦 Altyn MAT | Materials tracking for construction | HTML/CSS, MySQL, JS, PHP, MAMP Pro | [GitHub](https://github.com/Altyn-moon/AltynMAT) |
 
 ### 🔥 Featured Projects
 
