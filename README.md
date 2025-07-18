@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Altynay Sabyrzhan 👩‍💻</h1>
-<p align="center">Junior Full-Stack Developer | Python • FastAPI • JavaScript • MySQL</p>
+<h1 align="center">Hi, I'm Altynai Sabyrzhan Ermekqyzy👩‍💻</h1>
+<p align="center">Junior Full-Stack Developer</p>
 
 ---
-
-### 🧠 About Me
 
 - 🎓 Bachelor's in Information Systems in Oil and Gas (GPA: 3.57)
 - 🔭 Currently working on web apps using FastAPI, PHP, and MySQL
